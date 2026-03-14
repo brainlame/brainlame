@@ -23,10 +23,10 @@
 <table align="center">
   <tr>
     <td valign="middle" style="padding: 10px;">
-      <img src="https://github-readme-stats-brainlame.vercel.app/api?username=brainlame&show_icons=true&locale=en&hide=stars&theme=tokyonight" alt="brainlame" />
+      <img src="https://github-readme-stats-brainlame.vercel.app/api/top-langs?username=brainlame&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="brainlame" />
     </td>
     <td valign="middle" style="padding: 10px;">
-      <img src="https://github-readme-stats-brainlame.vercel.app/api/top-langs?username=brainlame&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="brainlame" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=brainlame&theme=tokyo-night" alt="brainlame" />
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brainlame&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph) -->
+  <!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brainlame&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph) -->
 
 </div>
 
