@@ -1,0 +1,20 @@
+name: Generate 3D Contribution Graph
+on:
+  schedule: # execute once a day
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    name: Generate 3D contribution graph
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          USERNAME: brainlame
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update 3D contribution graph"
+          file_pattern: "profile-3d-contrib/*.svg"
